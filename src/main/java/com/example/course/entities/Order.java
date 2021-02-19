@@ -1,4 +1,4 @@
-package com.example.course.entities;
+  package com.example.course.entities;
 
 import java.io.Serializable;
 import java.time.Instant;
